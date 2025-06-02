@@ -42,6 +42,12 @@ A estrutura da página foi montada com:
 
 ---
 
+## 🚀 Acesse o Projeto Publicado
+
+🔗 [Clique aqui para ver o projeto no GitHub Pages](https://matheus-nerisxavier.github.io/Local-Turistico/)
+
+---
+
 ## 📁 Estrutura de Pastas
 
 ```plaintext
